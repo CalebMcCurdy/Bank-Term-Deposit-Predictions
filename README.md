@@ -70,4 +70,3 @@ This allows for the sharing and adaptation of the datasets for any purpose, prov
 
 ## Acknowledgments
 A special thanks to our University of San Diego Professors Jules Malin, MS and Dillon Orr, MS. 
-![image](https://github.com/CalebMcCurdy/ADS505_Team3/assets/105075842/466fe21d-ef94-4d8d-9168-f93ff0a0f26c)
