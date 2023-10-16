@@ -38,22 +38,36 @@ The purpose of this project is to develop a predictive model that optimizes the 
 
 ### Methods Used
 •	Inferential Statistics
+
 •	Data Mining 
+
 •	Predictive Modeling 
+
 •	Machine Learning
+
 •	Data Visualization
+
 •	Programming 
+
 •	Data Manipulation
-Technologies
+
+### Technologies
 •	Python
+
 •	Jupyter Notebook
-Project Description
+
+## Project Description
 We got our dataset for this project from the UCI Machine Learning Repository at https://archive.ics.uci.edu/dataset/222/bank+marketing. The data is in a .csv format separated by semicolons. There are 45,211 entries with 17 total columns for each: 16 predictors and 1 binary target variable. There is no missing data so we will be able to use all records of the dataset. As the data is originally collected, there are 10 variables that are objects with 7 of integer datatype.
+
 Currently, the retail bank does not have any machine learning algorithms that can help upper management make informed decisions with targeted telemarketing. It costs time and money to market to the whole customer base, so identifying which customers would be more prone to sign up for a term deposit than others would minimize costs and increase profits. Up until this point, we have done Exploratory Data Analysis on the data and identified which characteristics could be related to a subscription of a term deposit. Although we have identified these characteristics, we will still consult the marketing team as they are the subject matter experts and the model chosen for finalized results.
+
 With a predictive model, time and money can be saved for marketing costs. We will be able to better allocate resources as we narrow our focus of customers to target as the most likely to subscribe to a term deposit. As this model is deployed, new data about customers (old or new) is also going to grow. It will need to be updated with new data every quarter as it tends to stale out or when the model isn’t predicting as well as it could historically.
-License
+
+## License
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
-Acknowledgments
+
+## Acknowledgments
 A special thanks to our University of San Diego Professors Jules Malin, MS and Dillon Orr, MS. 
 ![image](https://github.com/CalebMcCurdy/ADS505_Team3/assets/105075842/466fe21d-ef94-4d8d-9168-f93ff0a0f26c)
