@@ -1,7 +1,8 @@
 # Term Deposit Predictions with Telemarketing
 
 This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego. 
--- Project Status: Completed
+
+**-- Project Status: Completed**
 
 ## Installation
 The following instructions will help you set up the Python environment and install the required packages to run the project. Additionally, it will help you clone the project onto your machine.
@@ -9,20 +10,33 @@ The following instructions will help you set up the Python environment and insta
 First clone the repository onto your machine using the following command
 
 git init
+
 git clone https://github.com/CalebMcCurdy/ADS505_Team3
+
 Change to the project directory
+
 cd ADS505_Team3
+
 Create Python environment
+
 conda create --name my-environment python=3.8
+
 conda activate my-environment
+
 Install required packages
+
 conda install -c conda-forge klib dmba kds pandas numpy seaborn matplotlib xgboost statsmodels scikit-learn tensorflow imbalanced-learn 
-Project Intro/Objective
+
+## Project Intro/Objective
+
 The purpose of this project is to develop a predictive model that optimizes the marketing efforts of a Portuguese banking institute by increasing the number of clients that subscribe to a term deposit. This can be achieved by reviewing previous marketing techniques and consumer data used to develop a predictive model to identify the target population most likely to subscribe to a term deposit. First, we want to gain a better understanding of the data which can be achieved via exploratory data analysis. This will allow us to make decisions on how to proceed and learn which predictors may have greater influence on term deposit subscriptions. After later steps are taken such as preprocessing and model training, we will be able to make a recommendation to the bank on which model to implement. Using this model, the institution can allocate resources more efficiently to encourage subscriptions and be better prepared. 
-Partner(s)/Contributor(s)  
+
+### Partner(s)/Contributor(s)  
 •	Caleb McCurdy, Jessica Hin, Jesse Gutierrez
+
 •	https://www.sandiego.edu/engineering/graduate/ms-applied-data-science.php 
-Methods Used
+
+### Methods Used
 •	Inferential Statistics
 •	Data Mining 
 •	Predictive Modeling 
